@@ -1,0 +1,11 @@
+{
+  "name": "cgc-plugin-models-ts",
+  "version": "1.0.0",
+  "description": "Project to generate cgc plugin model classes from json schema",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
